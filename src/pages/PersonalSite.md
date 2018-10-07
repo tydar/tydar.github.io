@@ -2,6 +2,7 @@
 title: "Personal Site"
 technologies: "react, gatsby, jss, graphql"
 emoji: "👨‍💻"
+github: "https://github.com/tydar/tydar.github.io/tree/source"
 ---
 
 The site you're on. <!-- end -->

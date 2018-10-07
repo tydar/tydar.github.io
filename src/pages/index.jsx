@@ -39,7 +39,7 @@ function HomePage(props) {
       <div className={classes.container}>
         <h2 className={classes.text}>Hi! I am Tyler Darnell.</h2>
         <p className={classes.text}>
-          I like to mess with computers. I'm primarily interested in building web application frontends, and useful interfaces for public data.
+          I like to mess with computers. I'm primarily interested in building web application frontends and useful interfaces for public data.
         </p>
         <p className={classes.text}>
           You can get in touch with me at <a className={classes.link} href="mailto:tyler.a.darnell@gmail.com">tyler.a.darnell@gmail.com</a>.

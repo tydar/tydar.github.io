@@ -14,9 +14,11 @@ const styles = theme => ({
     flexDirection: 'column',
     alignItems: 'center',
     fontFamily: 'sans-serif',
+    minHeight: '100vh',
   },
   content: {
     width: '75%',
+    margin: theme.spacing.unit * 5,
   },
   link: {
     textDecoration: 'none',

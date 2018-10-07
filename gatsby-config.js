@@ -43,5 +43,11 @@ module.exports = {
         excerpt_separator: `<!-- end -->`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-typography',
+      options: {
+        pathToConfigModule: 'src/utils/typography.js',
+      },
+    },
   ],
 };
